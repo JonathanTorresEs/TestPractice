@@ -1,0 +1,8 @@
+C:\Users\Polaris\Documents\ITIC\8vo Semestre\Taller Vertical\UnitTest\UnitTestTests\bin\Debug\UnitTestTests.dll
+C:\Users\Polaris\Documents\ITIC\8vo Semestre\Taller Vertical\UnitTest\UnitTestTests\bin\Debug\UnitTestTests.pdb
+C:\Users\Polaris\Documents\ITIC\8vo Semestre\Taller Vertical\UnitTest\UnitTestTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Polaris\Documents\ITIC\8vo Semestre\Taller Vertical\UnitTest\UnitTestTests\bin\Debug\UnitTest.exe
+C:\Users\Polaris\Documents\ITIC\8vo Semestre\Taller Vertical\UnitTest\UnitTestTests\bin\Debug\UnitTest.pdb
+C:\Users\Polaris\Documents\ITIC\8vo Semestre\Taller Vertical\UnitTest\UnitTestTests\obj\Debug\UnitTestTests.csprojResolveAssemblyReference.cache
+C:\Users\Polaris\Documents\ITIC\8vo Semestre\Taller Vertical\UnitTest\UnitTestTests\obj\Debug\UnitTestTests.dll
+C:\Users\Polaris\Documents\ITIC\8vo Semestre\Taller Vertical\UnitTest\UnitTestTests\obj\Debug\UnitTestTests.pdb
